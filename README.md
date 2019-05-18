@@ -1,16 +1,26 @@
-##**STUDENT INFO**
+### **STUDENT INFO**
+
+
 *NUR FATIN NABILAH BINTI NORIZAN
 *250623
 
-**OUTPUT**
+
+
+### **OUTPUT**
+
 
 ![1](https://user-images.githubusercontent.com/37392529/57972361-cf045380-79cb-11e9-9dba-db679faf7ba5.PNG)
 ![2](https://user-images.githubusercontent.com/37392529/57972363-d166ad80-79cb-11e9-87cc-acfc41cf3cf1.PNG)
 
 
 
-**UML CLASS DIAGRAM**
+### **UML CLASS DIAGRAM**
+
+
+
 ![3](https://user-images.githubusercontent.com/37392529/57972434-e6900c00-79cc-11e9-86ba-c7b71fcd0812.PNG)
+
+
 
 **YOUTUBE LINK**
 
