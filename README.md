@@ -1,8 +1,14 @@
 ### **STUDENT INFO**
 
 
-*NUR FATIN NABILAH BINTI NORIZAN
-*250623
+NUR FATIN NABILAH BINTI NORIZAN
+
+
+250623
+
+
+
+
 
 
 
@@ -14,11 +20,17 @@
 
 
 
+
+
+
+
 ### **UML CLASS DIAGRAM**
 
 
 
 ![3](https://user-images.githubusercontent.com/37392529/57972434-e6900c00-79cc-11e9-86ba-c7b71fcd0812.PNG)
+
+
 
 
 
